@@ -22,3 +22,8 @@ Goal: LLM/GenAI Engineer → £55k+ in 14 months
 - Set up VS Code, Copilot, Anki, Python
 - Started freeCodeCamp Python
 >>>>>>> 296262a707543fcaacdf507ba6c99e51ad45649c
+## Day 3 — 18 Nov 2026
+- Installed Git 2.56.1
+- Connected ai-journey folder to GitHub
+- Pushed day1.py, day2.py, day3.py, .gitignore to GitHub
+- Ready for freeCodeCamp steps 3-30 tomorrow
