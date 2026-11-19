@@ -18,3 +18,7 @@ Start date: 16 Nov 2026
 - Connected ai-journey folder to GitHub
 - Pushed day1.py, day2.py, day3.py, .gitignore to GitHub
 - Ready for freeCodeCamp steps 3-30
+
+## Day 4 — 19 Nov 2026
+- freeCodeCamp steps 3-15
+- Built report card printer project
