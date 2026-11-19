@@ -5,7 +5,6 @@
 #AI Journey
 >>>>>>> 296262a707543fcaacdf507ba6c99e51ad45649c
 Start date: 16 Nov 2026
-Goal: LLM/GenAI Engineer → £55k+ in 14 months
 
 ## Day 1 — 16 Nov 2026
 <<<<<<< HEAD
